@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://efflurd.github.io/sitemap/sitemap.txt
